@@ -1,2 +1,2 @@
-1.0.0.6
-http://10.124.32.249:8000/SparePartManager_new.exe
+1.0.0.7
+https://drive.google.com/uc?export=download&id=1WmMfm-QQTejTEacS0iQ9Zn0rz1gfC_0K
